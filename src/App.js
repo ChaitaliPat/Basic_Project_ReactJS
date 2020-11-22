@@ -5,10 +5,10 @@ import Button from './Components/Button'
 const App = () => {
     return (
         <div>
-            <h1 style={{textAlign:"center"}}>Hello Dipesh Chaitu</h1>
+            <h1 style={{textAlign:"center"}}>Hello World</h1>
             <Button title="Click Here!!"/>
             <Button title="Hello"/>
-            <Button />
+            <Button title="Hey"/>
         </div>
     )
 }
